@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
+#include <cs50.h>
 
 float wallis_pi(int);
 
@@ -23,4 +24,3 @@ int main(void) {
     }
   }
 }
-
